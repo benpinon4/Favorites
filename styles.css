@@ -1,3 +1,24 @@
 body {
     background-image: url(https://i.pinimg.com/originals/f2/2d/e5/f22de50195f3435d1da25ae108d41d24.jpg);
 }
+h1 {
+    text-align:center;
+    color:blanchedalmond;
+    text-shadow: 1px 2px 5px rgb(7, 181, 250);
+}
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+p {
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+}
+div {
+    background-color: blueviolet;
+    border: 2px black;
+    padding: 5px;
+}
